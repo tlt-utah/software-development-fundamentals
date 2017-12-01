@@ -29,11 +29,11 @@
   - browser compatibility test
   - performance test 
   - testing frameworks 
-    - JUnit @http://junit.org/
-    - Selenium [wiki](https://en.wikipedia.org/wiki/Selenium_(software))
+    - JUnit http://junit.org/
+    - Selenium [@wiki](https://en.wikipedia.org/wiki/Selenium_(software))
   
 
 
-## DevOps [wiki](https://en.wikipedia.org/wiki/DevOps)
+## DevOps [@wiki](https://en.wikipedia.org/wiki/DevOps)
 
 
