@@ -2,7 +2,7 @@
 
 
   ## Algorithm
-    - [Sorting Algorithm Animations](https://www.toptal.com/developers/sorting-algorithms/)
+    - ["Sorting Algorithm Animations"](https://www.toptal.com/developers/sorting-algorithms/)
     - code competition & practice 
       - https://www.hackerrank.com/
       - https://leetcode.com/
