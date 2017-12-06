@@ -13,8 +13,28 @@
 ## Languages
 
 ### Java
+- JavaSE
+- JavaEE 
+- Java8
+  - Lambda Expressions [Tutorial](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
+  - Data Streaming
+- Hibernate [wiki](https://en.wikipedia.org/wiki/Hibernate_(framework)): Object Relational Mapping tool, Java object to database table
+- Frameworks
+  - Struts 
+  - Struts 2
+  - Grails
+  - Vert.x
+  - Play
+  - WebWork
+  - SpringBoot
 
 ### JavaScript
+- jQuery
+- NodeJS [wiki](https://en.wikipedia.org/wiki/Node.js): run-time environment on server-side
+- ExpressJS [wiki](https://en.wikipedia.org/wiki/Express.js): web app framework for Node.js
+- MeteorJS [wiki](https://en.wikipedia.org/wiki/Meteor_(web_framework)): JS web app framework
+- ReactJS [wiki](https://en.wikipedia.org/wiki/React_(JavaScript_library)): JS library for building UI by Facebook
+- AngularJS: MVC framework by Google
 
 ## Web Technologies / Developments
 
@@ -55,25 +75,26 @@
 - MongoDB
 - Apache Cassandra 
 
-
-
-## Testing
-- unit testing
-- integration testing
-- regression testing ??
-- code coverage testing
-- state coverage testing
-- browser compatibility testing
-- performance testing
-- load testing
-- testing frameworks 
+## Software Testing [wiki](https://en.wikipedia.org/wiki/Software_testing)
+- Testing Levels
+  - unit testing
+  - integration testing
+  - component interface testing
+  - system testing
+- Testing Types
+  - regression testing
+  - compatibility testing
+  - performance testing
+  - security testing
+- Testing Frameworks 
 - JUnit http://junit.org/
 - Selenium [wiki](https://en.wikipedia.org/wiki/Selenium_(software))
 - playback tool, domain-specific language to write tests, run aginst web browsers
 - Apache JMeter [wiki](https://en.wikipedia.org/wiki/Apache_JMeter)
-- a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
+- Test Automation [wiki](https://en.wikipedia.org/wiki/Test_automation)
 
 ## DevOps [wiki](https://en.wikipedia.org/wiki/DevOps)
+-  a software engineering culture and practice that aims at unifying software development (Dev) and software operation (Ops).
 
 ## Software Development Practices 
 ### Agile methodology [wiki](https://en.wikipedia.org/wiki/Agile_software_development)
