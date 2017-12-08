@@ -1,5 +1,52 @@
 # software-development-fundamentals
 
+## SW DEV models & paradigms
+- Agile [wiki](https://en.wikipedia.org/wiki/Agile_software_development)
+- Agile Manifesto http://agilemanifesto.org/
+
+### Agile methodologies 
+- Manifesto for Agile Software Development http://agilemanifesto.org/
+- adaptive planning, evolutionary development, early & continuous delivery, rapice & flexible updates
+- Frameworks
+- Scrum ??
+- Kanban ??
+- Extreme Programming ??
+
+## SW DEV methodologies & frameworks
+- DevOps
+- Kanban
+- Lean
+
+## SW DEV Practices 
+- Continuous Integration [wiki](https://en.wikipedia.org/wiki/Continuous_integration)
+- Pair Programming [wiki](https://en.wikipedia.org/wiki/Pair_programming)
+- Test Driven Development [wiki](https://en.wikipedia.org/wiki/Test-driven_development)
+
+## SW DEV Roles
+- Software Developer 
+- Software Architect [wiki](https://en.wikipedia.org/wiki/Software_architect)
+- high-level designer, builder of code standards, tools, platforms, and practices. 
+- CTO [wiki](https://en.wikipedia.org/wiki/Chief_technology_officer)
+- CIO [wiki](https://en.wikipedia.org/wiki/Chief_information_officer)
+
+## SW DEV designs
+### SAAS [Software as as service](https://en.wikipedia.org/wiki/Software_as_a_service)
+
+
+
+## Cloud Computing https://en.wikipedia.org/wiki/Cloud_computing
+### IAAS [Infrastructure as a service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)
+### PAAS [Platform as a service](https://en.wikipedia.org/wiki/Platform_as_a_service)
+- AWS (Amazon Web Services)
+- GAE (Google App Engine): http://lti-tool.appspot.com/
+- Heroku
+
+## SOA [service oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+- SOAP [simple object access protocol](https://en.wikipedia.org/wiki/SOAP)
+-- [WSDL](https://en.wikipedia.org/wiki/Web_Services_Description_Language)
+- RESTful web service [wiki](https://en.wikipedia.org/wiki/Representational_state_transfer)
+- [microservices](https://en.wikipedia.org/wiki/Microservices)
+
 ## Algorithm
 - [Sorting Algorithm Animations](https://www.toptal.com/developers/sorting-algorithms/)
 - code competition & practices
@@ -11,6 +58,11 @@
   - https://www.codechef.com/
 
 ## Languages
+- imperative / functional / declarative
+- closure [wiki](https://en.wikipedia.org/wiki/Closure_(computer_programming))
+- serialization
+- polymorphism [wiki](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
 
 ### Java
 - JavaSE
@@ -96,20 +148,7 @@
 ## DevOps [wiki](https://en.wikipedia.org/wiki/DevOps)
 -  a software engineering culture and practice that aims at unifying software development (Dev) and software operation (Ops).
 
-## Software Development Practices 
-### Agile methodology [wiki](https://en.wikipedia.org/wiki/Agile_software_development)
-- Manifesto for Agile Software Development http://agilemanifesto.org/
-- adaptive planning, evolutionary development, early & continuous delivery, rapice & flexible updates
-- Frameworks
-- Scrum ??
-- Kanban ??
-- Extreme Programming ??
 
-## Software Development Roles
-- Software Developer 
-- Software Architect [wiki](https://en.wikipedia.org/wiki/Software_architect)
-- high-level designer, builder of code standards, tools, platforms, and practices. 
-- CTO [wiki](https://en.wikipedia.org/wiki/Chief_technology_officer)
-- CIO [wiki](https://en.wikipedia.org/wiki/Chief_information_officer)
+
 
 ## Stylesheet, CSS, XSLT
